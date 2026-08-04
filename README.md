@@ -47,55 +47,11 @@ Outside of my professional work, I founded **RevAmplify**, my personal technolog
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img
-  width="100%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crisjer009&theme=github_dark"
-  alt="CJ's GitHub contribution activity"
-/>
-
-<br>
-
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=crisjer009&theme=github_dark"
-  alt="CJ's GitHub statistics"
-/>
-
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crisjer009&theme=github_dark"
-  alt="CJ's most committed languages"
-/>
-
-<br>
-
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crisjer009&theme=github_dark"
-  alt="CJ's repositories by language"
-/>
-
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=crisjer009&theme=github_dark&utcOffset=8"
-  alt="CJ's productive development time"
-/>
-
-</div>
-
-> GitHub statistics represent public repository activity and do not reflect the full scope of my private enterprise work.
-
----
-
 ## 🚀 Current Focus
 
 - Enterprise software architecture and development
 - Cloud infrastructure and DevOps practices
-- REST API security and systems integration
+- Secure REST APIs and systems integration
 - Docker and containerized applications
 - Business intelligence and data visualization
 - Artificial intelligence and local large language models
@@ -124,7 +80,7 @@ Outside of my professional work, I founded **RevAmplify**, my personal technolog
   />
 </p>
 
-`CodeIgniter` • `PDO` • `DataTables` • `AdminLTE` • `PHPMailer` • `REST APIs`
+`CodeIgniter` • `PDO` • `DataTables` • `AdminLTE` • `PHPMailer` • `amCharts`
 
 ### 🗄️ Databases
 
@@ -179,7 +135,7 @@ Outside of my professional work, I founded **RevAmplify**, my personal technolog
   />
 </p>
 
-`GitHub Actions` • `Navicat` • `XAMPP` • `LAMPP` • `Visual Studio Code Remote SSH`
+`GitHub Actions` • `Navicat` • `XAMPP` • `LAMPP` • `Remote SSH`
 
 ### 🤖 Artificial Intelligence
 
@@ -210,7 +166,7 @@ Outside of my professional work, I founded **RevAmplify**, my personal technolog
 
 **Personal technology and software development initiative**
 
-RevAmplify is my independent technology initiative focused on building modern applications, experimenting with cloud infrastructure, exploring artificial intelligence, and developing practical digital solutions for businesses.
+RevAmplify is my independent technology initiative focused on building modern applications, exploring cloud infrastructure and artificial intelligence, and developing practical digital solutions for businesses.
 
 🌐 **Official website:** [revamplify.dev](https://revamplify.dev)
 
@@ -395,7 +351,7 @@ I aim to build systems that are:
 - [ ] Learn Kubernetes fundamentals
 - [ ] Learn infrastructure as code with Terraform
 - [ ] Expand cloud architecture and DevOps knowledge
-- [ ] Build and publish more open-source projects
+- [ ] Build and publish more public projects
 - [ ] Pursue a cloud or DevOps certification
 
 ---
@@ -415,7 +371,7 @@ I aim to build systems that are:
 
 ## 🔒 Project Confidentiality
 
-Some of the systems presented on this profile were developed for private enterprise use. Project descriptions are intentionally presented at a high level to protect confidential business information, source code, infrastructure details, and company data.
+Some systems presented on this profile were developed for private enterprise use. Project descriptions are intentionally presented at a high level to protect confidential business information, source code, infrastructure details, and company data.
 
 ---
 
