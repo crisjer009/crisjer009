@@ -22,9 +22,9 @@
 
 I'm **Crisjer Gutana**, also known as **CJ**, a System Development Officer from the Philippines with more than eight years of experience designing, developing, deploying, and maintaining enterprise software solutions.
 
-I specialize in transforming complex business processes into reliable and user-friendly applications. My experience includes human resource systems, customer loyalty platforms, helpdesk solutions, inventory systems, business intelligence dashboards, REST APIs, retail integrations, cloud infrastructure, and Linux server administration.
+I specialize in transforming complex business processes into reliable, maintainable, and user-friendly applications. My experience includes human resource systems, customer loyalty platforms, helpdesk solutions, inventory systems, business intelligence dashboards, REST APIs, retail integrations, cloud infrastructure, and server administration.
 
-Outside of my professional work, I founded **RevAmplify**, my personal software development initiative where I explore modern web technologies, cloud infrastructure, artificial intelligence, automation, and future software-as-a-service products.
+Outside of my professional work, I founded **RevAmplify**, my personal technology initiative where I explore modern web development, cloud infrastructure, artificial intelligence, automation, and future software-as-a-service products.
 
 🌐 **RevAmplify:** [revamplify.dev](https://revamplify.dev)
 
@@ -38,7 +38,7 @@ Outside of my professional work, I founded **RevAmplify**, my personal software 
 - 🏢 System Development Officer and enterprise application developer
 - 🚀 Founder and developer of **RevAmplify**
 - 🏬 Experience supporting multi-branch retail operations
-- 🔌 REST API and Retail Pro integration experience
+- 🔌 REST API and retail-platform integration experience
 - ☁️ Application deployment and administration on Google Cloud
 - 🐧 Linux and Windows Server administration
 - 📊 Business intelligence, analytics, and executive reporting
@@ -53,29 +53,36 @@ Outside of my professional work, I founded **RevAmplify**, my personal software 
 
 <img
   width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=crisjer009&bg_color=00000000&color=2EA043&line=2EA043&point=FFFFFF&area=true&hide_border=true"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crisjer009&theme=github_dark"
   alt="CJ's GitHub contribution activity"
 />
 
 <br>
 
 <img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=crisjer009&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&rank_icon=github"
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=crisjer009&theme=github_dark"
   alt="CJ's GitHub statistics"
 />
 
 <img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=crisjer009&layout=compact&hide_border=true&theme=transparent"
-  alt="CJ's most used languages"
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=crisjer009&theme=github_dark"
+  alt="CJ's most committed languages"
 />
 
 <br>
 
 <img
-  src="https://streak-stats.demolab.com?user=crisjer009&theme=transparent&hide_border=true"
-  alt="CJ's GitHub contribution streak"
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crisjer009&theme=github_dark"
+  alt="CJ's repositories by language"
+/>
+
+<img
+  width="49%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=crisjer009&theme=github_dark&utcOffset=8"
+  alt="CJ's productive development time"
 />
 
 </div>
@@ -201,11 +208,11 @@ Outside of my professional work, I founded **RevAmplify**, my personal software 
 
 [![Visit RevAmplify](https://img.shields.io/badge/Visit-revamplify.dev-1F6FEB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://revamplify.dev)
 
-**Personal software development initiative**
+**Personal technology and software development initiative**
 
 RevAmplify is my independent technology initiative focused on building modern applications, experimenting with cloud infrastructure, exploring artificial intelligence, and developing practical digital solutions for businesses.
 
-🌐 **Official website:** [https://revamplify.dev](https://revamplify.dev)
+🌐 **Official website:** [revamplify.dev](https://revamplify.dev)
 
 **Current areas of development:**
 
