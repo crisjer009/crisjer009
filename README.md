@@ -32,3 +32,40 @@ I believe that great software isn't just written—it is engineered to solve rea
 - 🔐 Secure REST APIs
 - ⚙️ DevOps Engineering
 - 🌐 Linux Server Administration
+
+---
+
+# 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,js,python,html,css,mysql" />
+</p>
+
+### ⚙️ Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=bootstrap,jquery" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=gcp,docker,linux,github,git,bash" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+**Also experienced with:**
+
+- Microsoft SQL Server
+- Oracle Database
+- REST APIs
+- Apache HTTP Server
+- Cloudflare
+- GitHub Actions
